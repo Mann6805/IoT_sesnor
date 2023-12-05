@@ -1,7 +1,8 @@
 # IoT_sesnor
 Welcome to my IoT Sensor Code Repository! Here, you'll find Arduino and ESP32 code designed for seamless sensor integration in IoT applications.
 
-Arduino: An open-source electronics platform based on easy-to-use hardware and software. It's designed for creating interactive projects and prototypes, capable of reading inputs and controlling a variety of devices.
+# Arduino: 
+An open-source electronics platform based on easy-to-use hardware and software. It's designed for creating interactive projects and prototypes, capable of reading inputs and controlling a variety of devices.
 
 ESP32: A powerful Wi-Fi and Bluetooth-enabled microcontroller that's popular for IoT applications. It offers high processing power, low power consumption, and a variety of built-in features, making it ideal for connected projects.
 
